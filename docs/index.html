@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Pistol Ammunition Price Comparison</title>
+    <style>
+      body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial; padding: 20px; }
+      table { border-collapse: collapse; width: 100%; }
+      th, td { border: 1px solid #ddd; padding: 8px; }
+      th { background: #f6f6f6; text-align: left; }
+      a { color: #0366d6; }
+      .meta { margin-bottom: 1rem; }
+    </style>
+  </head>
+  <body>
+    <h1>Pistol Ammunition — Price Comparison (MVP)</h1>
+    <div class="meta">
+      <strong>Last crawl:</strong> <span id="last-crawl">(loading...)</span>
+    </div>
+
+    <table id="products-table">
+      <thead>
+        <tr>
+          <th>Store</th>
+          <th>Page</th>
+          <th>Title</th>
+          <th>Price</th>
+          <th>Pack</th>
+          <th>Scraped</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <script>
+      async function load() {
+        try {
+          const res = await fetch('data/products.json', {cache: 'no-store'});
+            const data = await res.json();
+          const tbody = document.querySelector('#products-table tbody');
+          tbody.innerHTML = '';
+          let last = null;
+          for (const r of data) {
+              const tr = document.createElement('tr');
+              const price = r.price ? (r.price + ' ' + (r.currency||'NOK')) : '';
+              let pricePerUnit = '';
+              if (r.price && r.pack_qty) {
+                const ppu = (Number(r.price) / Number(r.pack_qty));
+                pricePerUnit = ppu.toFixed(2) + ' NOK/stk';
+              }
+              const snippet = r.snippet ? `<div style="font-size:0.9em;color:#444">${r.snippet}</div>` : '';
+              const perUnitNote = r.per_unit_flag ? ' (per-unit price shown)' : '';
+              tr.innerHTML = `
+                <td>${r.store_name || ''}</td>
+                <td><a href="${r.url}" target="_blank" rel="noopener">link</a></td>
+                <td>${r.title || ''}${snippet}</td>
+                <td>${price}${perUnitNote}</td>
+                <td>${r.pack_qty || ''} ${pricePerUnit}</td>
+                <td>${r.scraped_at || ''}</td>
+              `;
+            tbody.appendChild(tr);
+            if (r.scraped_at && (!last || r.scraped_at > last)) last = r.scraped_at;
+          }
+          document.getElementById('last-crawl').textContent = last || 'no data';
+        } catch (e) {
+          document.getElementById('last-crawl').textContent = 'failed to load';
+          console.error(e);
+        }
+      }
+      load();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+[{
+  "id": "pvas",
+  "name": "PVA S",
+  "category_url": "https://www.pvas.no/ammunisjon/haandvaapen"
+},
+{
+  "id": "jaktbutikken",
+  "name": "Jaktbutikken",
+  "category_url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/"
+},
+{
+  "id": "intersport",
+  "name": "Intersport Bogstadveien",
+  "category_url": "https://www.intersport-bogstadveien.no/h%C3%A5ndv%C3%A5pen-ammunisjons-priser._19338.html"
+},
+{
+  "id": "jaktdepotet",
+  "name": "Jaktdepotet",
+  "category_url": "https://www.jaktdepotet.no/h%C3%A5ndv%C3%A5penammunisjon"
+}
+,
+{
+  "id": "norsegear",
+  "name": "Norsegear",
+  "category_url": "https://www.norsegear.no/range/ammunisjon/pistol"
+}
+]
