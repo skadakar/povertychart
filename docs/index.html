@@ -6,6 +6,9 @@
     <title>Pistol Ammunition Price Comparison</title>
     <style>
       body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial; padding: 20px; }
+      .controls { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
+      .controls label { display: flex; align-items: center; gap: 0.5rem; font-size: 0.95rem; }
+      .controls input, .controls select { min-width: 180px; padding: 4px 8px; border: 1px solid #ccc; border-radius: 4px; }
       table { border-collapse: collapse; width: 100%; }
       th, td { border: 1px solid #ddd; padding: 8px; }
       th { background: #f6f6f6; text-align: left; }
@@ -19,12 +22,28 @@
       <strong>Last crawl:</strong> <span id="last-crawl">(loading...)</span>
     </div>
 
+    <div class="controls">
+      <label>
+        Filter caliber:
+        <input id="filter-caliber" type="search" placeholder="e.g. 9mm, .45 ACP" />
+      </label>
+      <label>
+        Sort by price:
+        <select id="sort-price">
+          <option value="none">None</option>
+          <option value="asc">Low → High</option>
+          <option value="desc">High → Low</option>
+        </select>
+      </label>
+    </div>
+
     <table id="products-table">
       <thead>
         <tr>
           <th>Store</th>
           <th>Page</th>
           <th>Title</th>
+          <th>Caliber</th>
           <th>Price</th>
           <th>Pack</th>
           <th>Scraped</th>
@@ -34,40 +53,76 @@
     </table>
 
     <script>
+      let allData = [];
+
+      function formatPrice(r) {
+        const price = r.price ? (r.price + ' ' + (r.currency || 'NOK')) : '';
+        const pricePerUnit = r.price && r.pack_qty ? ' ' + (Number(r.price) / Number(r.pack_qty)).toFixed(2) + ' NOK/stk' : '';
+        const perUnitNote = r.per_unit_flag ? ' (per-unit price shown)' : '';
+        return `${price}${perUnitNote}${pricePerUnit}`;
+      }
+
+      function comparePrice(a, b) {
+        const aPrice = typeof a.price === 'number' ? a.price : Infinity;
+        const bPrice = typeof b.price === 'number' ? b.price : Infinity;
+        return aPrice - bPrice;
+      }
+
+      function renderRows(data) {
+        const tbody = document.querySelector('#products-table tbody');
+        tbody.innerHTML = '';
+        let last = null;
+
+        for (const r of data) {
+          const tr = document.createElement('tr');
+          const snippet = r.snippet ? `<div style="font-size:0.9em;color:#444">${r.snippet}</div>` : '';
+          tr.innerHTML = `
+            <td>${r.store_name || ''}</td>
+            <td><a href="${r.url}" target="_blank" rel="noopener">link</a></td>
+            <td>${r.title || ''}${snippet}</td>
+            <td>${r.caliber || ''}</td>
+            <td>${formatPrice(r)}</td>
+            <td>${r.pack_qty || ''}</td>
+            <td>${r.scraped_at || ''}</td>
+          `;
+          tbody.appendChild(tr);
+          if (r.scraped_at && (!last || r.scraped_at > last)) last = r.scraped_at;
+        }
+
+        document.getElementById('last-crawl').textContent = last || 'no data';
+      }
+
+      function applyFilters() {
+        const filterValue = document.getElementById('filter-caliber').value.trim().toLowerCase();
+        const sortMode = document.getElementById('sort-price').value;
+        let filtered = allData;
+
+        if (filterValue) {
+          filtered = filtered.filter(r => (r.caliber || '').toLowerCase().includes(filterValue));
+        }
+
+        if (sortMode === 'asc') {
+          filtered = filtered.slice().sort(comparePrice);
+        } else if (sortMode === 'desc') {
+          filtered = filtered.slice().sort((a, b) => comparePrice(b, a));
+        }
+
+        renderRows(filtered);
+      }
+
       async function load() {
         try {
           const res = await fetch('data/products.json', {cache: 'no-store'});
-            const data = await res.json();
-          const tbody = document.querySelector('#products-table tbody');
-          tbody.innerHTML = '';
-          let last = null;
-          for (const r of data) {
-              const tr = document.createElement('tr');
-              const price = r.price ? (r.price + ' ' + (r.currency||'NOK')) : '';
-              let pricePerUnit = '';
-              if (r.price && r.pack_qty) {
-                const ppu = (Number(r.price) / Number(r.pack_qty));
-                pricePerUnit = ppu.toFixed(2) + ' NOK/stk';
-              }
-              const snippet = r.snippet ? `<div style="font-size:0.9em;color:#444">${r.snippet}</div>` : '';
-              const perUnitNote = r.per_unit_flag ? ' (per-unit price shown)' : '';
-              tr.innerHTML = `
-                <td>${r.store_name || ''}</td>
-                <td><a href="${r.url}" target="_blank" rel="noopener">link</a></td>
-                <td>${r.title || ''}${snippet}</td>
-                <td>${price}${perUnitNote}</td>
-                <td>${r.pack_qty || ''} ${pricePerUnit}</td>
-                <td>${r.scraped_at || ''}</td>
-              `;
-            tbody.appendChild(tr);
-            if (r.scraped_at && (!last || r.scraped_at > last)) last = r.scraped_at;
-          }
-          document.getElementById('last-crawl').textContent = last || 'no data';
+          allData = await res.json();
+          applyFilters();
+          document.getElementById('filter-caliber').addEventListener('input', applyFilters);
+          document.getElementById('sort-price').addEventListener('change', applyFilters);
         } catch (e) {
           document.getElementById('last-crawl').textContent = 'failed to load';
           console.error(e);
         }
       }
+
       load();
     </script>
   </body>

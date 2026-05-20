@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 
 PRICE_RE = re.compile(r"(\d{1,3}(?:[ .\u00A0]\d{3})*(?:,\d{1,2})?)\s*(kr|nok|norske kroner|norsk kr|kr.)?", re.I)
 PACK_RE = re.compile(r"(\d+)\s*(stk|pk|pakke|pcs|krt|kartong|eske|box)\b", re.I)
+SLASH_PACK_RE = re.compile(r"/\s*(\d+)\b")
 CALIBER_PATTERNS = [
     re.compile(r"\b\d+(?:\.\d+)?\s?x\s?\d+(?:\.\d+)?\b", re.I),
     re.compile(r"\b\d+(?:\.\d+)?\s?mm(?:\s+[A-Za-zÆØÅæøå]+)?\b", re.I),
@@ -31,6 +32,24 @@ def parse_caliber(text: str) -> str | None:
         match = pattern.search(text)
         if match:
             return match.group(0).strip()
+    return None
+
+
+def parse_pack_qty(text: str) -> int | None:
+    if not text:
+        return None
+    match = PACK_RE.search(text)
+    if match:
+        try:
+            return int(match.group(1))
+        except ValueError:
+            pass
+    match = SLASH_PACK_RE.search(text)
+    if match:
+        try:
+            return int(match.group(1))
+        except ValueError:
+            pass
     return None
 
 
@@ -112,21 +131,14 @@ def parse_category(html: str, base_url: str) -> list[dict]:
             continue
         price_tag = block.select_one('span.Price.notranslate, span.c-price__value.notranslate, span.c-price__value.js-sellprice-formatted')
         price = normalize_price_str(price_tag.get_text(' ', strip=True)) if price_tag else None
-        pack_qty = None
-        pack_match = PACK_RE.search(title)
-        if pack_match:
-            try:
-                pack_qty = int(pack_match.group(1))
-            except ValueError:
-                pack_qty = None
-        else:
+        pack_qty = parse_pack_qty(title)
+        if pack_qty is None:
             block_text = block.get_text(' ', strip=True)
-            pack_match = PACK_RE.search(block_text)
-            if pack_match:
-                try:
-                    pack_qty = int(pack_match.group(1))
-                except ValueError:
-                    pack_qty = None
+            pack_qty = parse_pack_qty(block_text)
+        if pack_qty is None:
+            unit_tag = block.select_one('span.Unit')
+            if unit_tag:
+                pack_qty = parse_pack_qty(unit_tag.get_text(' ', strip=True))
         items.append({
             'title': title,
             'url': urljoin(base_url, href),
@@ -157,12 +169,13 @@ def parse_product_detail(html: str, base_url: str) -> dict:
         caliber = parse_caliber(title)
         if caliber:
             detail['caliber'] = caliber
-        pack_match = PACK_RE.search(title)
-        if pack_match:
-            try:
-                detail['pack_qty'] = int(pack_match.group(1))
-            except ValueError:
-                detail['pack_qty'] = None
+        pack_qty = parse_pack_qty(title)
+        if pack_qty is None:
+            unit_tag = soup.select_one('span.Unit')
+            if unit_tag:
+                pack_qty = parse_pack_qty(unit_tag.get_text(' ', strip=True))
+        if pack_qty is not None:
+            detail['pack_qty'] = pack_qty
     brand_tag = soup.select_one('h2.uc-product-view__product-brand-name a, .uc-product-view__product-brand-name-link')
     if brand_tag:
         detail['vendor'] = brand_tag.get_text(' ', strip=True)
