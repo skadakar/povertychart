@@ -80,7 +80,14 @@ def fetch_products_from_html(html: str, url: str, limit: int = 30) -> list[dict]
 
 def fetch_html(url: str) -> str | None:
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "ammunition-price-scraper/0.1 (+https://github.com/)"})
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+            },
+        )
         with urllib.request.urlopen(req, timeout=20) as resp:
             raw = resp.read()
             return raw.decode('utf-8', errors='replace')
@@ -119,6 +126,22 @@ def main(argv: list[str] | None = None) -> int:
                 mod = importlib.import_module(mod_name)
                 if hasattr(mod, 'parse_category'):
                     items = mod.parse_category(html, url)
+                if hasattr(mod, 'parse_product_detail') and items:
+                    for item in items:
+                        item_url = item.get('url')
+                        if not item_url:
+                            continue
+                        detail_html = fetch_html(item_url)
+                        if not detail_html:
+                            continue
+                        try:
+                            detail = mod.parse_product_detail(detail_html, item_url)
+                            if isinstance(detail, dict):
+                                for k, v in detail.items():
+                                    if v is not None:
+                                        item[k] = v
+                        except Exception:
+                            continue
             except ModuleNotFoundError:
                 items = []
             if not items:
@@ -129,11 +152,13 @@ def main(argv: list[str] | None = None) -> int:
                 record = {
                     'store_id': src.get('id'),
                     'store_name': src.get('name'),
+                    'vendor': it.get('vendor') or src.get('name'),
                     'url': it.get('url') or url,
                     'title': it.get('title') or it.get('snippet') or '',
-                    'caliber': None,
+                    'caliber': it.get('caliber'),
                     'pack_qty': it.get('pack_qty'),
                     'price': it.get('price'),
+                    'bulk_price': it.get('bulk_price'),
                     'currency': it.get('currency'),
                     'per_unit_flag': it.get('per_unit_flag', False),
                     'snippet': it.get('snippet'),
@@ -150,12 +175,15 @@ def main(argv: list[str] | None = None) -> int:
             record = {
                 'store_id': src.get('id'),
                 'store_name': src.get('name'),
+                'vendor': src.get('name'),
                 'url': url,
                 'title': title,
                 'caliber': None,
                 'pack_qty': None,
                 'price': None,
+                'bulk_price': None,
                 'currency': None,
+                'per_unit_flag': False,
                 'scraped_at': now,
             }
             results.append(record)

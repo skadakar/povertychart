@@ -11,3 +11,5 @@ python -m scraper.main --output docs/data/products.json
 ```
 
 The scheduled workflow is `.github/workflows/daily-scrape.yml` and the sources are in `scraper/sources.json`.
+
+GitHub Pages site: https://skadakar.github.io/povertychart/
