@@ -1,4 +1,6 @@
 name: Daily Scrape
+permissions:
+  contents: write
 on:
   schedule:
     - cron: '0 2 * * *' # daily at 02:00 UTC
@@ -9,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Python
         uses: actions/setup-python@v4
         with:

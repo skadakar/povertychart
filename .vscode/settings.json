@@ -2,6 +2,7 @@
     "chat.tools.terminal.autoApprove": {
         "git add": true,
         "git commit": true,
-        "true": true
+        "true": true,
+        "git push": true
     }
 }
