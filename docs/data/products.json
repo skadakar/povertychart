@@ -3,915 +3,1200 @@
     "store_id": "pvas",
     "store_name": "PVA S",
     "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/federal-22lr-target-40-grs-50pk",
-    "title": "FEDERAL 22LR Target 40 grs. 50pk.",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 84.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 FEDERAL 22LR Target 40 grs. 50pk. Pris kr 84,00 /50-pk På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/vrig-ammunisjon/randtent/cci-mini-mag-solid-22-lr-100-pk",
-    "title": "CCI MINI MAG SOLID 22 LR (100 pk.)",
-    "caliber": null,
-    "pack_qty": 100,
-    "price": 235.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 CCI MINI MAG SOLID 22 LR (100 pk.) Pris kr 235,00 /100 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/ovrig-ammunisjon/randtent/cci-mini-mag-hp-22-lr-100-pk",
-    "title": "CCI MINI MAG HP 22 LR (100 pk.)",
-    "caliber": null,
-    "pack_qty": 100,
-    "price": 235.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 CCI MINI MAG HP 22 LR (100 pk.) Pris kr 235,00 /100 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-9mm-luger-150-fmj-subsonic-50-pk",
-    "title": "S&B 9mm Luger 150 FMJ Subsonic (50 pk.)",
-    "caliber": "9mm Luger",
-    "pack_qty": 50,
-    "price": 349.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 9mm Luger 150 FMJ Subsonic (50 pk.) Pris kr 349,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/vrig-ammunisjon/randtent/geco-semi-auto-22lr",
-    "title": "GECO Semi Auto 22LR",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 79.5,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 GECO Semi Auto 22LR Pris kr 79,50 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-25-acp-50-fmj-50-pk",
-    "title": "S&B 25 ACP 50 FMJ (50 pk.)",
-    "caliber": "25 ACP",
-    "pack_qty": 50,
-    "price": 410.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 25 ACP 50 FMJ (50 pk.) Pris kr 410,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-32-acp-73-fmj-50-pk",
-    "title": "S&B 32 ACP 73 FMJ (50 pk.)",
-    "caliber": "32 ACP",
-    "pack_qty": 50,
-    "price": 359.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 32 ACP 73 FMJ (50 pk.) Pris kr 359,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/sb-32-sw-long-100wc-50-pk",
-    "title": "S&B 32 S&W Long 100WC (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 449.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 32 S&W Long 100WC (50 pk.) Pris kr 449,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/sb-9mm-luger-124-fmj-50-pk",
-    "title": "S&B 9mm Luger 124  FMJ (50 pk.)",
-    "caliber": "9mm Luger",
-    "pack_qty": 50,
-    "price": 199.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Tilbud -26% Kvantumsrabatt 0 S&B 9mm Luger 124  FMJ (50 pk.) Pris kr 199,00 /50 kr 269,00 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-9mm-luger-140-fmj-subsonic-50-pk",
-    "title": "S&B 9MM LUGER 140 FMJ SUBSONIC (50 pk.)",
-    "caliber": "9MM LUGER",
-    "pack_qty": 50,
-    "price": 339.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 9MM LUGER 140 FMJ SUBSONIC (50 pk.) Pris kr 339,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-10mm-auto-180grs-fmj",
-    "title": "S&B 10mm AUTO 180grs FMJ",
-    "caliber": "10mm AUTO",
-    "pack_qty": 50,
-    "price": 475.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 10mm AUTO 180grs FMJ Pris kr 475,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/american-eagle-10mm-auto-180fmj-50-pk",
-    "title": "American Eagle 10mm Auto 180FMJ (50 pk.)",
-    "caliber": "10mm Auto",
-    "pack_qty": 50,
-    "price": 549.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 American Eagle 10mm Auto 180FMJ (50 pk.) Pris kr 549,00 /50 Bestilt inn",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-38-spec-non-tox-158-tfmj",
-    "title": "S&B 38 Spec. NON TOX 158 TFMJ",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 489.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 38 Spec. NON TOX 158 TFMJ Pris kr 489,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-38-special-158grs-fmj",
-    "title": "S&B .38 Special 158grs FMJ",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 265.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B .38 Special 158grs FMJ Pris kr 265,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-38-158-jsp-50-pk",
-    "title": "S&B 38 158 JSP (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 429.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 38 158 JSP (50 pk.) Pris kr 429,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-38-sp-158-lrn-bly-50-pk",
-    "title": "S&B 38 SP 158 LRN BLY (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 389.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 38 SP 158 LRN BLY (50 pk.) Pris kr 389,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/sb-38-148-wc-50-pk",
-    "title": "S&B 38 148 WC (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 399.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 38 148 WC (50 pk.) Pris kr 399,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/sb-357-mag-158-fmj-50-pk",
-    "title": "S&B 357 MAG 158 FMJ (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 449.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 357 MAG 158 FMJ (50 pk.) Pris kr 449,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-357-mag-158-lfn-bly-50-pk",
-    "title": "S&B 357 MAG 158 LFN BLY (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 449.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 357 MAG 158 LFN BLY (50 pk.) Pris kr 449,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/sb-357-mag-158-sp-50-pk",
-    "title": "S&B 357 MAG 158 SP (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 449.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 357 MAG 158 SP (50 pk.) Pris kr 449,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-40-sw-180-fmj-50-pk",
-    "title": "S&B 40 S&W 180 FMJ (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 469.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 40 S&W 180 FMJ (50 pk.) Pris kr 469,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/sb-44-rem-mag-240-jsp-50-pk",
-    "title": "S&B 44 Rem Mag 240 JSP (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 739.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 44 Rem Mag 240 JSP (50 pk.) Pris kr 739,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/sb-45-colt-248-lfn-bly-50-pk",
-    "title": "S&B 45 COLT 248 LFN, BLY. (50 pk.)",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 639.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 45 COLT 248 LFN, BLY. (50 pk.) Pris kr 639,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Sellier & Bellot",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/sb-45-acp-230-fmj-50-pk",
-    "title": "S&B 45 ACP 230 FMJ (50 pk.)",
-    "caliber": "45 ACP",
-    "pack_qty": 50,
-    "price": 479.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 S&B 45 ACP 230 FMJ (50 pk.) Pris kr 479,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/sellier-bellot-460-sw-255grs-jhp-20-pk",
-    "title": "Sellier & Bellot .460 S&W 255grs JHP (20 pk.)",
-    "caliber": null,
-    "pack_qty": 20,
-    "price": 419.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 Sellier & Bellot .460 S&W 255grs JHP (20 pk.) Pris kr 419,00 /20 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "GECO",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/geco-9mm-124-gr-fmj",
-    "title": "GECO 9mm 124 gr FMJ",
-    "caliber": "9mm",
-    "pack_qty": 50,
-    "price": 219.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 GECO 9mm 124 gr FMJ Pris kr 219,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "GECO",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/geco-38-special-146gr-wad-cutter",
-    "title": "GECO .38 Special 146gr Wad Cutter",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 369.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 GECO .38 Special 146gr Wad Cutter Pris kr 369,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "GECO",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/geco-38-special-158gr-lrn-copper-plated",
-    "title": "GECO .38 Special 158gr LRN Copper Plated",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 359.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 GECO .38 Special 158gr LRN Copper Plated Pris kr 359,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Winchester",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/winch-38-sw-145gr-lrn",
-    "title": "Winch. 38 S&W 145gr LRN",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 530.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 Winch. 38 S&W 145gr LRN Pris kr 530,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Hornady",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/50-ae-300-gr-xtp-fra-hornady",
-    "title": "50 AE 300 GR XTP fra Hornady",
-    "caliber": null,
-    "pack_qty": 20,
-    "price": 690.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 50 AE 300 GR XTP fra Hornady Pris kr 690,00 /20-pk Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/fusion-50-action-express-300grs-jhp-20-pk",
-    "title": "Fusion.50 Action Express 300grs JHP (20 pk.)",
-    "caliber": null,
-    "pack_qty": 20,
-    "price": 1099.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 Fusion.50 Action Express 300grs JHP (20 pk.) Pris kr 1 099,00 /20 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Federal",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/premium-500-sw-275-tbd-barnes-exp-20-pk",
-    "title": "Premium 500 S&W 275 TBD Barnes EXP (20 pk.)",
-    "caliber": null,
-    "pack_qty": 20,
-    "price": 1600.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 Premium 500 S&W 275 TBD Barnes EXP (20 pk.) Pris kr 1 600,00 /20 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-40-sw-180grs-fmj-40ps",
-    "title": "MAGTECH 40 S&W 180grs. FMJ 40PS",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 440.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 40 S&W 180grs. FMJ 40PS Pris kr 440,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/hndvpen/magtech-38-spesial-158-grs-sjhp-38e",
-    "title": "MAGTECH 38 Spesial 158 grs. SJHP 38E",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 355.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 38 Spesial 158 grs. SJHP 38E Pris kr 355,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-38-spesial-158-grs-lswc-38j",
-    "title": "MAGTECH 38 Spesial 158 grs LSWC 38J",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 320.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 38 Spesial 158 grs LSWC 38J Pris kr 320,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-500-sw-325-grs-sjsp-500l",
-    "title": "MAGTECH .500 S&W 325 grs SJSP 500L",
-    "caliber": null,
-    "pack_qty": 20,
-    "price": 495.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH .500 S&W 325 grs SJSP 500L Pris kr 495,00 /20 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Winchester",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/winchester-41-rem-mag-210gr.-jsp",
-    "title": "WINCHESTER 41 Rem.Mag. 210gr. JSP",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 560.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 WINCHESTER 41 Rem.Mag. 210gr. JSP Pris kr 560,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/remington-41-rem-mag-210-grs.-sp",
-    "title": "REMINGTON 41 Rem.Mag. 210 grs. SP",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 575.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 REMINGTON 41 Rem.Mag. 210 grs. SP Pris kr 575,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-500-sw-mag-325grs-fmj-500d",
-    "title": "MAGTECH .500 S&W MAG 325grs FMJ 500D",
-    "caliber": null,
-    "pack_qty": 20,
-    "price": 459.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH .500 S&W MAG 325grs FMJ 500D Pris kr 459,00 /20 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Winchester",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/winch-45-colt-cowboy-250-lead",
-    "title": "Winch. 45 Colt Cowboy 250 Lead",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 875.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 Winch. 45 Colt Cowboy 250 Lead Pris kr 875,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-357-mag-158-grs-fmj-fl-357d",
-    "title": "MAGTECH 357 Mag. 158 grs FMJ-FL 357D",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 365.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 357 Mag. 158 grs FMJ-FL 357D Pris kr 365,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "CCI",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/cci-blazer-9x19mm-hagelpatron",
-    "title": "CCI BLAZER 9x19mm hagelpatron",
-    "caliber": null,
-    "pack_qty": 10,
-    "price": 375.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 CCI BLAZER 9x19mm hagelpatron Pris kr 375,00 /10 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "CCI",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/cci-blazer-45-acp-hagelpatron",
-    "title": "CCI BLAZER 45 ACP hagelpatron",
-    "caliber": "45 ACP",
-    "pack_qty": 10,
-    "price": 315.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 CCI BLAZER 45 ACP hagelpatron Pris kr 315,00 /10 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "CCI",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/cci-blazer-38-special-hagelpatron",
-    "title": "CCI BLAZER 38 Special hagelpatron",
-    "caliber": null,
-    "pack_qty": 10,
-    "price": 315.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 CCI BLAZER 38 Special hagelpatron Pris kr 315,00 /10 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-500-sw-325-grs-sjsp-500b",
-    "title": "MAGTECH .500 S&W 325 grs SJSP 500B",
-    "caliber": null,
-    "pack_qty": 20,
-    "price": 495.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH .500 S&W 325 grs SJSP 500B Pris kr 495,00 /20 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-38spl-158gr-lfn-cowboy-38l",
-    "title": "MAGTECH .38SPL 158GR LFN Cowboy 38L",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 470.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH .38SPL 158GR LFN Cowboy 38L Pris kr 470,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "PVA S",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-9x19-147grs-fmj-sub-9g",
-    "title": "MAGTECH 9x19 147grs. FMJ-SUB 9G",
-    "caliber": "9x19",
-    "pack_qty": 50,
-    "price": 275.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 9x19 147grs. FMJ-SUB 9G Pris kr 275,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Hornady",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/hornady-460-sw-mag-200grs.-ftx",
-    "title": "HORNADY 460 S&W Mag. 200grs. FTX",
-    "caliber": null,
-    "pack_qty": 20,
-    "price": 558.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 HORNADY 460 S&W Mag. 200grs. FTX Pris kr 558,00 /20 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-45-colt-cowboy-250grs-lfn-45d",
-    "title": "MAGTECH 45 COLT Cowboy 250grs. LFN 45D",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 570.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 45 COLT Cowboy 250grs. LFN 45D Pris kr 570,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-45-acp-230-grs-fmj-45a",
-    "title": "MAGTECH 45 ACP 230 grs. FMJ 45A",
-    "caliber": "45 ACP",
-    "pack_qty": 50,
-    "price": 400.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 MAGTECH 45 ACP 230 grs. FMJ 45A Pris kr 400,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-454-casull-260grs-fmj-fl-454b",
-    "title": "MAGTECH 454 Casull 260grs. FMJ FL 454B",
-    "caliber": null,
-    "pack_qty": 20,
-    "price": 630.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 454 Casull 260grs. FMJ FL 454B Pris kr 630,00 /20 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-44-40-win-225grs-lfn-4440b",
-    "title": "MAGTECH 44-40 Win. 225grs. LFN 4440B",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 550.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 MAGTECH 44-40 Win. 225grs. LFN 4440B Pris kr 550,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-44spl-240gr-lfn-44b",
-    "title": "MAGTECH 44SPL 240gr. LFN 44B",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 465.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 MAGTECH 44SPL 240gr. LFN 44B Pris kr 465,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-44-rem-mag-240gr-sjsp-44a",
-    "title": "MAGTECH 44 Rem.Mag. 240gr. SJSP 44A",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 560.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 44 Rem.Mag. 240gr. SJSP 44A Pris kr 560,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-40-sw-180grs-fmj-40b",
-    "title": "MAGTECH 40 S&W 180grs. FMJ 40B",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 445.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 MAGTECH 40 S&W 180grs. FMJ 40B Pris kr 445,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-40-sw-180grs-jhp-40a",
-    "title": "MAGTECH 40 S&W 180grs. JHP 40A",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 390.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 MAGTECH 40 S&W 180grs. JHP 40A Pris kr 390,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-38sa-130-grs-fmjp-38s",
-    "title": "MAGTECH 38SA 130 grs. FMJ+P 38S",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 340.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 MAGTECH 38SA 130 grs. FMJ+P 38S Pris kr 340,00 /50 På lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-9x19-124grs-lrn-9e",
-    "title": "MAGTECH 9x19 124grs. LRN 9E",
-    "caliber": "9x19",
-    "pack_qty": 50,
-    "price": 275.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "Kvantumsrabatt 0 MAGTECH 9x19 124grs. LRN 9E Pris kr 275,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-9x19-147grs-jhp-sub-9k",
-    "title": "MAGTECH 9x19 147grs. JHP-SUB 9K",
-    "caliber": "9x19",
-    "pack_qty": 50,
-    "price": 275.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 9x19 147grs. JHP-SUB 9K Pris kr 275,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "pvas",
-    "store_name": "PVA S",
-    "vendor": "Magtech",
-    "url": "https://www.pvas.no/ammunisjon/haandvaapen/magtech-9x19mm-95grs-jsp/fl-9f",
-    "title": "MAGTECH 9x19mm 95grs. JSP/FL 9F",
-    "caliber": null,
-    "pack_qty": 50,
-    "price": 275.0,
-    "bulk_price": 2.0,
-    "currency": "NOK",
-    "per_unit_flag": false,
-    "snippet": "0 MAGTECH 9x19mm 95grs. JSP/FL 9F Pris kr 275,00 /50 Ikke på lager",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
-  },
-  {
-    "store_id": "jaktbutikken",
-    "store_name": "Jaktbutikken",
-    "vendor": "Jaktbutikken",
-    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/",
-    "title": "",
+    "url": "https://www.pvas.no/ammunisjon/haandvaapen",
+    "title": "Page not found",
     "caliber": null,
     "pack_qty": null,
     "price": null,
     "bulk_price": null,
     "currency": null,
     "per_unit_flag": false,
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/",
+    "title": "Ammunisjon",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 2.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "y2=\"6\"/> Vareutvalg Ammunisjon BRUKT Elektronikk Fiskeutstyr <a href=\"https://jaktbutikken.no/produktka",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/elektronikk/",
+    "title": "Elektronikk",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 2.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "e\" stroke=\"currentColor\" stroke-width=\"2.5\"> Ammunisjon BRUKT Elektronikk Fiskeutstyr Jaktutstyr Klær og fottøy <a href=\"https://jaktbuti",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/rekvisita/",
+    "title": "Rekvisita",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 2.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "adekomponenter-2/\">Ladekomponenter Ladeutstyr Optikk Pusseutstyr Rekvisita Våpen Våpen del Våpentilbehør",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/vapen/",
+    "title": "Våpen",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 2.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "duktkategori/ladeutstyr-2/\">Ladeutstyr Optikk Pusseutstyr Rekvisita Våpen Våpen del Våpentilbehør <div",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/vapen-del/",
+    "title": "Våpen del",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 66.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "ikken.no/produktkategori/optikk/\">Optikk Pusseutstyr Rekvisita Våpen Våpen del Våpentilbehør <div data-rocket-location-hash=\"66bc7869d098de05dd278c45df41b8a8\" class=\"dp-header__sear",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/vapentilbehor/",
+    "title": "Våpentilbehør",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 2.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "no/produktkategori/pusseutstyr-2/\">Pusseutstyr Rekvisita Våpen Våpen del Våpentilbehør <button type=\"button\" class=\"dp-search-icon-wrap dp-search-trigger dp-s",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/",
+    "title": "Ammunisjon",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 9.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "\" aria-label=\"Mobilmeny\"> Butikk Ammunisjon <polyline points=\"9 6 15 12 9 18\"/",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/haglepatroner/",
+    "title": "Haglepatroner",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Haglepatroner Håndvåpen ammunisjon Ladekomponenter",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/brukt/handvapen-brukt/",
+    "title": "Håndvåpen",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Håndvåpen Optik Optikk <l",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/elektronikk/",
+    "title": "Elektronikk",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 9.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "//jaktbutikken.no/produktkategori/brukt/vapentilbehor-brukt/\">Våpentilbehør Elektronikk <polyline points=\"9 6 15 12 9 18\"",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/elektronikk/radio-tilbehor-elektronikk/",
+    "title": "Radio tilbehør",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Radio tilbehør Fiskeutstyr",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/fiskeutstyr/",
+    "title": "Fiskeutstyr",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 9.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": ".no/produktkategori/elektronikk/radio-tilbehor-elektronikk/\">Radio tilbehør Fiskeutstyr <polyline points=\"9 6 15 12 9 18\"",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/fiskeutstyr/agn/",
+    "title": "Agn",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Agn Bekledning Caps",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/jaktutstyr/",
+    "title": "Jaktutstyr",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 9.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "href=\"https://jaktbutikken.no/produktkategori/fiskeutstyr/wobbler/\">Wobbler Jaktutstyr <polyline points=\"9 6 15 12 9 18\"/",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/jaktutstyr/atebelysning/",
+    "title": "Åtebelysning",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Åtebelysning Dressurhalsbånd Feller",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/klaer-og-fottoy/",
+    "title": "Klær og fottøy",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 9.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "//jaktbutikken.no/produktkategori/jaktutstyr/viltpose-jaktutstyr/\">Viltpose Klær og fottøy <polyline points=\"9 6 15 12 9",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/klaer-og-fottoy/anorakk/",
+    "title": "Anorakk",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Anorakk Barn Buff",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ladekomponenter-2/",
+    "title": "Ladekomponenter",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 9.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "a href=\"https://jaktbutikken.no/produktkategori/klaer-og-fottoy/vest/\">Vest Ladekomponenter <polyline points=\"9 6 15 12 9",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ladekomponenter-2/federal/",
+    "title": "Federal",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Federal Kuler <li class=\"dp-mobile-nav__item has-childre",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ladeutstyr-2/",
+    "title": "Ladeutstyr",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 2.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "tikken.no/produktkategori/ladekomponenter-2/kuler-ladekomponenter-2/\">Kuler Ladeutstyr <polyline points=\"9 6 15 12 9 18\"/",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ladeutstyr-2/slakting-ladeutstyr-2/",
+    "title": "Slakting",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Slakting Optikk",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/optikk/",
+    "title": "Optikk",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 2.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "ktbutikken.no/produktkategori/ladeutstyr-2/slakting-ladeutstyr-2/\">Slakting Optikk </s",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/optikk/avstandsmaler/",
+    "title": "Avstandsmåler",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Avstandsmåler Håndkikkert Kikkertsikte",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/rekvisita/blink-rekvisita/",
+    "title": "Blink",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Blink Diverse Dynamisk skyting",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/vapen/hagle/",
+    "title": "Hagle",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Hagle Håndvåpen Kombi <l",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/vapen-del/magasin-vapen-del/",
+    "title": "Magasin",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Magasin Pipe <div cla",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/vapentilbehor/",
+    "title": "Våpentilbehør",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 9.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "Pipe Våpentilbehør <polyline points=\"9 6 15 12 9 1",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/vapentilbehor/avtrekk/",
+    "title": "Avtrekk",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 0.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"> Avtrekk Bag Blink",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/vapentilbehor/vapentilbehor-vapentilbehor/",
+    "title": "Våpentilbehør",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 10.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "Våpen del Våpenskap Våpentilbehør <a href=\"https://jaktbutikken.no/produkt/10mm-auto-pmc-fmj-tc-200grs-",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/swazi-micro-shirt/",
+    "title": "Swazi Micro Shirt &#107;&#114; 799",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "overlay__body\"> Ofte søkt etter Swazi Micro Shirt &#107;&#114; 799 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmIAAAHCAQAAAABk2Zg4AAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAA",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/glock-19-gen-5-mos-fs-9mm/",
+    "title": "Glock 19 Gen 5 MOS/FS 9mm &#107;&#114; 11999",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "> &#107;&#114; 799 Glock 19 Gen 5 MOS/FS 9mm &#107;&#114; 11999 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAASwAQAAAADDWo5iAAAAAnRSTlMAAHaTzTg",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/glock-45-gen-5-mos-med-gjenget-lop-co-135x1-lh/",
+    "title": "Glock 45 Gen 5 MOS med Gjenget Løp CO 13,5X1 LH &#107;&#114; 14999",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 11999 Glock 45 Gen 5 MOS med Gjenget Løp CO 13,5X1 LH &#107;&#114; 14999 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAwIAAASwAQAAAABgYsDlAAAAAnRSTlMAAHaTzTgAAACISURBVHja7cEBD",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/eberlestock-emod-drybag-110l/",
+    "title": "Eberlestock EMOD Drybag 100L &#107;&#114; 1099",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 14999 Eberlestock EMOD Drybag 100L &#107;&#114; 1099 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABSQAAARwAQMAAADJychrAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTl",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/magasin-browning-x-bolt-308-243/",
+    "title": "Magasin Browning X-bolt 308/243 &#107;&#114; 990",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 1099 Magasin Browning X-bolt 308/243 &#107;&#114; 990 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAMZAQAAAAA47vDKAAAAAnRSTlMAAHaTzTgAAAC",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/browning-t-bolt-carbon-dt-links-22lr-17hmr/",
+    "title": "Browning T-bolt Carbon DT Links (22Lr/17HMR) &#107;&#114; 12590",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "> &#107;&#114; 990 Browning T-bolt Carbon DT Links (22Lr/17HMR) &#107;&#114; 12590 <nav class=\"dp-breadcrumb dp-contain",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/",
+    "title": "Ammunisjon",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 5.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "tion-hash=\"fcf5c8f78bcc8550fb08d30f7e09e69c\" class=\"dp-search-results\"> Hjem › Ammunisjon › Håndvåpen ammunisjon <div data-rocket-location-hash=\"08b03db2d93eaaec2",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/10/",
+    "title": ".10 (2)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 10.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "ps ───────────────────────────────────────── --> .10 (2) .25 (2) <a href=",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/25/",
+    "title": ".25 (2)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 10.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "scroll\"> .10 (2) .25 (2) .32 (3) <a href=",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/32/",
+    "title": ".32 (3)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 25.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": ".25 (2) .32 (3) .357 (4) <a hre",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/357/",
+    "title": ".357 (4)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 32.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": ".32 (3) .357 (4) .38 (6) <a href=",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/38/",
+    "title": ".38 (6)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 357.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": ".357 (4) .38 (6) .38 Super Auto (1)",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/38-super-auto/",
+    "title": ".38 Super Auto (1)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 38.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": ".38 (6) .38 Super Auto (1) .40 S&amp;W (1)",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/40-sw/",
+    "title": ".40 S&amp;W (1)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 38.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": ".38 Super Auto (1) .40 S&amp;W (1) 300 WinMag (1)",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/300-winmag-handvapen-ammunisjon/",
+    "title": "300 WinMag (1)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 40.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": ".40 S&amp;W (1) 300 WinMag (1) 44 (3) <a href=\"",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/44/",
+    "title": "44 (3)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 300.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "300 WinMag (1) 44 (3) 45 (4) <a href=\"",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/45/",
+    "title": "45 (4)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 44.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "44 (3) 45 (4) 9mm (8) </di",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/9mm/",
+    "title": "9mm (8)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 45.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "45 (4) 9mm (8) <div data-rocket-location-hash=\"46b92ddb404f6dc7b62e5d23f00a4f5e\" class=\"dp-shop-toolbar",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/10mm-auto-pmc-fmj-tc-200grs-50pk/",
+    "title": "10mm Auto PMC FMJ-TC 200grs. 50pk.",
+    "caliber": null,
+    "pack_qty": 50,
+    "price": 200.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "uto PMC FMJ-TC 200grs. 50pk.\" loading=\"lazy\" data-eio=\"l\"> .10 10mm Auto PMC FMJ-TC 200grs. 50pk. &#107;&#114; 420",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/10mm-auto-pmc-fmj-tc-200grs-50pk/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 420 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAL6AQAAAAAOSZJSAAAAAnRSTlMAAHaTzTgAAAC",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/10mm-auto-sb-180grs-fmj-50pk/",
+    "title": "10mm Auto Sellier &amp; Bbellot 180grs FMJ 50pk",
+    "caliber": null,
+    "pack_qty": 50,
+    "price": 180.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "ellot 180grs FMJ 50pk\" loading=\"lazy\" data-eio=\"l\"> Ammunisjon 10mm Auto Sellier &amp; Bbellot 180grs FMJ 50pk &#107;&#114; 399",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/10mm-auto-sb-180grs-fmj-50pk/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 399 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAASwAQAAAACLebmjAAAAAnRSTl",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/32-short-colt-remington-80-grain-90-skudd/",
+    "title": "32 Short Colt Remington 80 grain lead (90 skudd)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 90.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "grain lead (90 skudd)\" loading=\"lazy\" data-eio=\"l\"> Ammunisjon 32 Short Colt Remington 80 grain lead (90 skudd) &#107;&#114; 600",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/32-short-colt-remington-80-grain-90-skudd/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 600 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AQAAAADjreInAAAAAnRSTlMAAHaT",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/357-magnum-sellierbellot-fmj-158grs/",
+    "title": "357 Magnum, Sellier&amp;Bellot, FMJ, 158grs",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 158.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "ier&amp;Bellot, FMJ, 158grs\" loading=\"lazy\" data-eio=\"l\"> .357 357 Magnum, Sellier&amp;Bellot, FMJ, 158grs &#107;&#114; 429",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/38-sw-145-grain-lead-nose-winchester-super-x/",
+    "title": "38 S&amp;W 145 grain Lead Nose Winchester Super X",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 32.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "Lead Nose Winchester Super X\" loading=\"lazy\" data-eio=\"l\"> .32 38 S&amp;W 145 grain Lead Nose Winchester Super X &#107;&#114; 419",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/38-sw-145-grain-lead-nose-winchester-super-x/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 419 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmIAAAHCAQAAAABk2Zg4AAAAAnRSTlMAAHaTzTgA",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/38-special-geco-158-mag-lrn-bly/",
+    "title": "38 Special Geco 158 Mag LRN Bly",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 158.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "Special Geco 158 Mag LRN Bly\" loading=\"lazy\" data-eio=\"l\"> .38 38 Special Geco 158 Mag LRN Bly &#107;&#114; 225",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/38-special-geco-158-mag-lrn-bly/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 225 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AQAAAADjreInAAAAAnRSTlMAAHaTz",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/38-special-sellierbellot-sp-158grs/",
+    "title": "38 Special, Sellier&amp;Bellot, SP, 158grs",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 158.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "llier&amp;Bellot, SP, 158grs\" loading=\"lazy\" data-eio=\"l\"> .38 38 Special, Sellier&amp;Bellot, SP, 158grs &#107;&#114; 369",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/44-rem-mag-sellior-belliot-240gr-1555gr/",
+    "title": "44 Rem Mag Sellior &amp; Belliot 240gr (15,55gr)",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 240.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "lliot 240gr (15,55gr)\" loading=\"lazy\" data-eio=\"l\"> Ammunisjon 44 Rem Mag Sellior &amp; Belliot 240gr (15,55gr) &#107;&#114; 690",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/44-rem-mag-winchester-240g-jhp/",
+    "title": "44 Rem Mag Winchester 240g JHP",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 240.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "Rem Mag Winchester 240g JHP\" loading=\"lazy\" data-eio=\"l\"> 44 44 Rem Mag Winchester 240g JHP &#107;&#114; 399",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/44-rem-mag-winchester-240g-jhp/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 399 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAMgAQAAAADzCzvFAAAAAnRSTlMAAHaT",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/45-acp-sellior-belliot-230grain-fmj/",
+    "title": "45 ACP, Sellior &amp; Belliot 230grain, FMJ.",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 230.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&amp; Belliot 230grain, FMJ.\" loading=\"lazy\" data-eio=\"l\"> 45 45 ACP, Sellior &amp; Belliot 230grain, FMJ. &#107;&#114; 459",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/45-colt-winchester-superx-cowboy-target-250grs/",
+    "title": "45 Colt, Winchester, SuperX Cowboy Target, 250grs",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 250.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "SuperX Cowboy Target, 250grs\" loading=\"lazy\" data-eio=\"l\"> 45 45 Colt, Winchester, SuperX Cowboy Target, 250grs &#107;&#114; 499",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/45-colt-winchester-superx-cowboy-target-250grs/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 499 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgAQAAAAAdquFJAAAAAnRSTlMAAHaTz",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/9mm-luger-winchester-115-grain-fmj/",
+    "title": "9mm Luger, Winchester, 115 Grain FMJ",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 115.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "r, Winchester, 115 Grain FMJ\" loading=\"lazy\" data-eio=\"l\"> 9mm 9mm Luger, Winchester, 115 Grain FMJ &#107;&#114; 232",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/9mm-luger-winchester-115-grain-fmj/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 232 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjAAAAIwAQAAAACwimzCAAAAAnRSTlMAAHaTzTgAAAA9SUR",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/9mm-pmc-124-grs-fmj-50pk/",
+    "title": "9mm PMC 124 grs Fmj 50pk.",
+    "caliber": null,
+    "pack_qty": 50,
+    "price": 9.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "t=\"9mm PMC 124 grs Fmj 50pk.\" loading=\"lazy\" data-eio=\"l\"> 9mm 9mm PMC 124 grs Fmj 50pk. &#107;&#114; 185",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/9mm-pmc-124-grs-fmj-50pk/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 185 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AQAAAADjreInAAAAAnRSTlMAAHaTzTgAAAA1SUR",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/9mm-sbstartpatroner-50pk/",
+    "title": "9mm, S&amp;B,Startpatroner - 50pk",
+    "caliber": null,
+    "pack_qty": 50,
+    "price": 50.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "S&amp;B,Startpatroner - 50pk\" loading=\"lazy\" data-eio=\"l\"> 9mm 9mm, S&amp;B,Startpatroner - 50pk &#107;&#114; 430",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/geco-38-special-158gr-jhp/",
+    "title": "Geco .38 Special 158gr JHP",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 38.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "=\"Geco .38 Special 158gr JHP\" loading=\"lazy\" data-eio=\"l\"> .38 Geco .38 Special 158gr JHP &#107;&#114; 339",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/geco-38-special-158gr-jhp/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 339 Se produkt <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmIAAAHCAQAAAABk2Zg4AAAAAnRSTlMAAHaTzTg",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/geco-357-mag-158gr-fmj-flat-nose/",
+    "title": "Geco 357 Mag 158gr FMJ Flat Nose",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 357.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "357 Mag 158gr FMJ Flat Nose\" loading=\"lazy\" data-eio=\"l\"> .357 Geco 357 Mag 158gr FMJ Flat Nose &#107;&#114; 399",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produkt/geco-357-mag-158gr-fmj-flat-nose/",
+    "title": "Se produkt",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 107.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "&#107;&#114; 399 Se produkt <a href=\"https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/page/2/\" class=\"dp-btn dp-btn-secondary dp-lo",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/handvapen-ammunisjon/page/2/",
+    "title": "Vis flere produkter",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 357.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "/jaktbutikken.no/produkt/geco-357-mag-158gr-fmj-flat-nose/\" class=\"button\"> Se produkt Vis flere produkter 1</sp",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/ammunisjon/",
+    "title": "Ammunisjon",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 4.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "-location-hash=\"4cb768ce5da68413d9d093ed028146ff\" class=\"dp-container dp-footer__grid\"> Kategorier Ammunisjon BRUKT Elektronikk",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/brukt/",
+    "title": "BRUKT",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 634.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "e6342dc8b19d001653707a4c438519a\" class=\"dp-footer__col\"> Kategorier Ammunisjon BRUKT Elektronikk Fiskeutstyr",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/jaktutstyr/",
+    "title": "Jaktutstyr",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 1.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "Elektronikk Fiskeutstyr Jaktutstyr Klær og fottøy <div data-rocket-location-hash=\"1ca1cdba2c38b71b2ee82161bdaca07a\" class=\"dp-f",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
+  },
+  {
+    "store_id": "jaktbutikken",
+    "store_name": "Jaktbutikken",
+    "vendor": "Jaktbutikken",
+    "url": "https://jaktbutikken.no/produktkategori/klaer-og-fottoy/",
+    "title": "Klær og fottøy",
+    "caliber": null,
+    "pack_qty": null,
+    "price": 333.0,
+    "bulk_price": null,
+    "currency": "NOK",
+    "per_unit_flag": false,
+    "snippet": "Fiskeutstyr Jaktutstyr Klær og fottøy Informasjon <li id=\"menu-item-333796\" class=\"menu-item menu",
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -926,7 +1211,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "TILBUD TIL SKYTTERE OG KLUBBER PÅ AMUNISJON FRA CCI, SELLER BELLOT OG ELEY. var $wp={htmlLoaded:!1,jQueryLoaded:!1,readyStack:[],loadStack:[],executeStack:[],ready:function(e){$wp.jQueryLoaded?$(e):",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -941,7 +1226,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "YTTERE OG KLUBBER PÅ AMUNISJON FRA CCI, SELLER BELLOT OG ELEY. var $wp={htmlLoaded:!1,jQueryLoaded:!1,readyStack:[],loadStack:[],executeStack:[],ready:function(e){$wp.jQueryLoaded?$(e):$wp.readyStack.p",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -956,7 +1241,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ryLoaded?e():$wp.executeStack.push(e)},fireEvent:function(e){\"jQueryLoaded\"===e&&($wp.jQueryLoaded=!0,$.each($wp.readyStack,function(e,d){$(d)}),$.each($wp.loadStack,function(e,d){$(window).load(d)})),",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -971,7 +1256,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "){$(d)}),$.each($wp.loadStack,function(e,d){$(window).load(d)})),\"htmlLoaded\"===e&&($wp.htmlLoaded=!0),$wp.jQueryLoaded&&$wp.htmlLoaded&&$.each($wp.executeStack,function(e,d){d()})}}; window.$ = $wp.re",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -986,7 +1271,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "eryLoaded'); } .screenOnly { display:none; } .printOnly { display:none; } body { background-color: #401f19; background-image: url('images/System/ice_bg.jpg'); background-repeat: repeat-x; padding-top: 30",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1001,7 +1286,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "oaded'); } .screenOnly { display:none; } .printOnly { display:none; } body { background-color: #401f19; background-image: url('images/System/ice_bg.jpg'); background-repeat: repeat-x; padding-top: 30px;",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1016,7 +1301,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "01f19; background-image: url('images/System/ice_bg.jpg'); background-repeat: repeat-x; padding-top: 30px; } .qmmc {width:200px !important;height:200px !important;overflow:scroll;}.qmmc div {position:rel",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1031,7 +1316,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ge: url('images/System/ice_bg.jpg'); background-repeat: repeat-x; padding-top: 30px; } .qmmc {width:200px !important;height:200px !important;overflow:scroll;}.qmmc div {position:relative !important;visib",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1046,7 +1331,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ce_bg.jpg'); background-repeat: repeat-x; padding-top: 30px; } .qmmc {width:200px !important;height:200px !important;overflow:scroll;}.qmmc div {position:relative !important;visibility:visible !important",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1061,7 +1346,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "idden !important;} var qmad = new Object();qmad.bvis=\"\";qmad.bhide=\"\";qmad.bhover=\"\"; /******* Menu 0 Add-On Settings *******/ var a = qmad.qm0 = new Object(); // Rounded Corners Add On a.rcorner_size =",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1076,7 +1361,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": ";qmad.bvis=\"\";qmad.bhide=\"\";qmad.bhover=\"\"; /******* Menu 0 Add-On Settings *******/ var a = qmad.qm0 = new Object(); // Rounded Corners Add On a.rcorner_size = 4; a.rcorner_border_color = \"#111111\"; a.",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1091,7 +1376,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "dd-On Settings *******/ var a = qmad.qm0 = new Object(); // Rounded Corners Add On a.rcorner_size = 4; a.rcorner_border_color = \"#111111\"; a.rcorner_bg_color = \"#CFDBF0\"; a.rcorner_apply_corners = new",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1106,7 +1391,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "= qmad.qm0 = new Object(); // Rounded Corners Add On a.rcorner_size = 4; a.rcorner_border_color = \"#111111\"; a.rcorner_bg_color = \"#CFDBF0\"; a.rcorner_apply_corners = new Array(false,true,true,true); //",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1121,7 +1406,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "mad.qm0 = new Object(); // Rounded Corners Add On a.rcorner_size = 4; a.rcorner_border_color = \"#111111\"; a.rcorner_bg_color = \"#CFDBF0\"; a.rcorner_apply_corners = new Array(false,true,true,true); // Ite",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1136,7 +1421,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "Corners Add On a.rcorner_size = 4; a.rcorner_border_color = \"#111111\"; a.rcorner_bg_color = \"#CFDBF0\"; a.rcorner_apply_corners = new Array(false,true,true,true); // Item Bullets Add On a.ibullets_appl",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1151,7 +1436,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "\"parent\"; a.ibullets_main_image = \"images/System/ice_arrow_main.gif\"; a.ibullets_main_image_width = 7; a.ibullets_main_image_height = 5; a.ibullets_main_position_x = -19; a.ibullets_main_position_y = -",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1166,7 +1451,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "\"images/System/ice_arrow_main.gif\"; a.ibullets_main_image_width = 7; a.ibullets_main_image_height = 5; a.ibullets_main_position_x = -19; a.ibullets_main_position_y = -5; a.ibullets_main_align_x = \"righ",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1181,7 +1466,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "\"; a.ibullets_main_image_width = 7; a.ibullets_main_image_height = 5; a.ibullets_main_position_x = -19; a.ibullets_main_position_y = -5; a.ibullets_main_align_x = \"right\"; a.ibullets_main_align_y = \"mid",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1196,7 +1481,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "; a.ibullets_main_image_height = 5; a.ibullets_main_position_x = -19; a.ibullets_main_position_y = -5; a.ibullets_main_align_x = \"right\"; a.ibullets_main_align_y = \"middle\"; a.ibullets_sub_image = \"ima",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1211,7 +1496,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "= \"middle\"; a.ibullets_sub_image = \"images/System/ice_arrow_sub.gif\"; a.ibullets_sub_image_width = 10; a.ibullets_sub_image_height = 13; a.ibullets_sub_position_x = -12; a.ibullets_sub_position_y = -2;",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1226,7 +1511,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "= \"images/System/ice_arrow_sub.gif\"; a.ibullets_sub_image_width = 10; a.ibullets_sub_image_height = 13; a.ibullets_sub_position_x = -12; a.ibullets_sub_position_y = -2; a.ibullets_sub_align_x = \"right\";",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1241,7 +1526,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "f\"; a.ibullets_sub_image_width = 10; a.ibullets_sub_image_height = 13; a.ibullets_sub_position_x = -12; a.ibullets_sub_position_y = -2; a.ibullets_sub_align_x = \"right\"; a.ibullets_sub_align_y = \"middle",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1256,7 +1541,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "10; a.ibullets_sub_image_height = 13; a.ibullets_sub_position_x = -12; a.ibullets_sub_position_y = -2; a.ibullets_sub_align_x = \"right\"; a.ibullets_sub_align_y = \"middle\"; Forsiden Om oss Kontakt oss K",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1271,7 +1556,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ts_sub_align_x = \"right\"; a.ibullets_sub_align_y = \"middle\"; Forsiden Om oss Kontakt oss Kirkeveien 56. 0368 Oslo. &nbsp; qm_create(0,false,250,250,false,false,false,false); Produkter Nighthawk Custom P",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1286,7 +1571,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ub_align_x = \"right\"; a.ibullets_sub_align_y = \"middle\"; Forsiden Om oss Kontakt oss Kirkeveien 56. 0368 Oslo. &nbsp; qm_create(0,false,250,250,false,false,false,false); Produkter Nighthawk Custom Pistol",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1301,7 +1586,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "align_x = \"right\"; a.ibullets_sub_align_y = \"middle\"; Forsiden Om oss Kontakt oss Kirkeveien 56. 0368 Oslo. &nbsp; qm_create(0,false,250,250,false,false,false,false); Produkter Nighthawk Custom Pistoler",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1316,7 +1601,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "lets_sub_align_y = \"middle\"; Forsiden Om oss Kontakt oss Kirkeveien 56. 0368 Oslo. &nbsp; qm_create(0,false,250,250,false,false,false,false); Produkter Nighthawk Custom Pistoler. Kikkertsikter. og hånd",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1331,7 +1616,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "_align_y = \"middle\"; Forsiden Om oss Kontakt oss Kirkeveien 56. 0368 Oslo. &nbsp; qm_create(0,false,250,250,false,false,false,false); Produkter Nighthawk Custom Pistoler. Kikkertsikter. og håndholdte kikker",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1346,7 +1631,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "_y = \"middle\"; Forsiden Om oss Kontakt oss Kirkeveien 56. 0368 Oslo. &nbsp; qm_create(0,false,250,250,false,false,false,false); Produkter Nighthawk Custom Pistoler. Kikkertsikter. og håndholdte kikkert",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "intersport",
@@ -1361,7 +1646,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "for håndvåpen og rifle.+ diverse tilbehør. Håndvåpen ammunisjons priser. Jaktbekledning Rifler fin. 22 lr. Hagler Rifler grov Håndvåpen Brukte håndvåpen. Fottøy Våpenskap &nbsp; &nbsp; [Du st&aring;r her",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1376,7 +1661,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "Jaktdepotet. H&#xE5;ndv&#xE5;penammunisjon function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer|",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1391,7 +1676,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "Jaktdepotet. H&#xE5;ndv&#xE5;penammunisjon function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[];gtag(",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1406,7 +1691,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "enied\",ad_user_data:\"denied\",ad_personalization:\"denied\",analytics_storage:\"denied\",wait_for_update:500});gtag(\"set\",\"ads_data_redaction\",!0) function gtag(){dataLayer.push(arguments)}window.dataLayer=wi",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1421,7 +1706,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "lization:\"denied\",analytics_storage:\"denied\",wait_for_update:500});gtag(\"set\",\"ads_data_redaction\",!0) function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[];gtag(\"js\",new Date",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1436,7 +1721,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "taLayer.push(arguments)}window.dataLayer=window.dataLayer||[];gtag(\"js\",new Date);gtag(\"config\",\"UA-46010329-1\") var packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProd",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1451,7 +1736,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ayer.push(arguments)}window.dataLayer=window.dataLayer||[];gtag(\"js\",new Date);gtag(\"config\",\"UA-46010329-1\") var packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1466,7 +1751,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "r.push(arguments)}window.dataLayer=window.dataLayer||[];gtag(\"js\",new Date);gtag(\"config\",\"UA-46010329-1\") var packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProducts.",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1481,7 +1766,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ush(arguments)}window.dataLayer=window.dataLayer||[];gtag(\"js\",new Date);gtag(\"config\",\"UA-46010329-1\") var packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProducts.pu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1496,7 +1781,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "||[];gtag(\"js\",new Date);gtag(\"config\",\"UA-46010329-1\") var packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1511,7 +1796,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "];gtag(\"js\",new Date);gtag(\"config\",\"UA-46010329-1\") var packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1526,7 +1811,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "g(\"config\",\"UA-46010329-1\") var packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1541,7 +1826,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "config\",\"UA-46010329-1\") var packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1556,7 +1841,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "var packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1571,7 +1856,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "packageProducts=[];packageProducts.push(29426);packageProducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1586,7 +1871,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "geProducts.push(29426);packageProducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1601,7 +1886,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "roducts.push(29426);packageProducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1616,7 +1901,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "geProducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1631,7 +1916,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "roducts.push(30567);packageProducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1646,7 +1931,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "geProducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1661,7 +1946,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "roducts.push(30577);packageProducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1676,7 +1961,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "geProducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1691,7 +1976,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "roducts.push(30583);packageProducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1706,7 +1991,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "geProducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProducts.push(33265);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1721,7 +2006,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "roducts.push(31013);packageProducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProducts.push(33265);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1736,7 +2021,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "geProducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProducts.push(33265);packageProducts.push(33267);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1751,7 +2036,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "roducts.push(31014);packageProducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProducts.push(33265);packageProducts.push(33267);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1766,7 +2051,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "geProducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProducts.push(33265);packageProducts.push(33267);packageProducts.push(35391);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1781,7 +2066,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "roducts.push(31945);packageProducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProducts.push(33265);packageProducts.push(33267);packageProducts.push(35391);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1796,7 +2081,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "geProducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProducts.push(33265);packageProducts.push(33267);packageProducts.push(35391);packageProducts.push(37790);packageProdu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "jaktdepotet",
@@ -1811,7 +2096,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "roducts.push(31948);packageProducts.push(31949);packageProducts.push(31950);packageProducts.push(33265);packageProducts.push(33267);packageProducts.push(35391);packageProducts.push(37790);packageProduct",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1826,7 +2111,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "var LOCALE = 'nb\\u002DNO'; var BASE_URL = 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002F'; var require = { 'baseUrl': 'ht",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1841,7 +2126,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "var LOCALE = 'nb\\u002DNO'; var BASE_URL = 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsege",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1856,7 +2141,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "var LOCALE = 'nb\\u002DNO'; var BASE_URL = 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1871,7 +2156,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "var LOCALE = 'nb\\u002DNO'; var BASE_URL = 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fs",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1886,7 +2171,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "var LOCALE = 'nb\\u002DNO'; var BASE_URL = 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1901,7 +2186,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "var BASE_URL = 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnors",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1916,7 +2201,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ASE_URL = 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1931,7 +2216,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "L = 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fn",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1946,7 +2231,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "\\u002Fwww.norsegear.no\\u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1961,7 +2246,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "rsegear.no\\u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting: Pistolammu",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1976,7 +2261,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "u002F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting: Pistolammunisjon for",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -1991,7 +2276,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "2F'; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting: Pistolammunisjon for pro",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2006,7 +2291,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "; var require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting: Pistolammunisjon for profes",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2021,7 +2306,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ar require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting: Pistolammunisjon for profesj",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2036,7 +2321,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "require = { 'baseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting: Pistolammunisjon for profesjonell",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2051,7 +2336,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "aseUrl': 'https\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting: Pistolammunisjon for profesjonelle skyttere | N",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2066,7 +2351,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "tps\\u003A\\u002F\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting: Pistolammunisjon for profesjonelle skyttere | Norsegear (wi",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2081,7 +2366,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "\\u002Fwww.norsegear.no\\u002Fstatic\\u002Fversion1787914447\\u002Ffrontend\\u002FTwoday\\u002Fnorsegear\\u002Fnb_NO' }; Sportsskyting: Pistolammunisjon for profesjonelle skyttere | Norsegear (window.NREUM||(NR",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2096,7 +2381,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "[\"soft_nav\"],distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2111,7 +2396,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "oft_nav\"],distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2126,7 +2411,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "_nav\"],distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f88",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2141,7 +2426,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "v\"],distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f886",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2156,7 +2441,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "d_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f886df1cd120e\",appli",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2171,7 +2456,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "racing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f886df1cd120e\",applicat",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2186,7 +2471,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "ing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f886df1cd120e\",applicati",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2201,7 +2486,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f886df1cd120e\",applicationID:\"991061777",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2216,7 +2501,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "e}};(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f886df1cd120e\",applicationID:\"991061777\",b",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2231,7 +2516,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": ";(window.NREUM||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f886df1cd120e\",applicationID:\"991061777\",br",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2246,7 +2531,7 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "||(NREUM={})).loader_config={agentID:\"1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f886df1cd120e\",applicationID:\"991061777\",browserID:\"112005",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   },
   {
     "store_id": "norsegear",
@@ -2261,6 +2546,6 @@
     "currency": "NOK",
     "per_unit_flag": false,
     "snippet": "1120058871\",accountID:\"3456891\",trustKey:\"1322840\",xpid:\"VwICV15aCRAJXVBSAQAAUVM=\",licenseKey:\"NRJS-7d5b04f886df1cd120e\",applicationID:\"991061777\",browserID:\"1120058871\"};;/*! For license information p",
-    "scraped_at": "2026-09-02T06:58:31.062611+00:00"
+    "scraped_at": "2026-09-03T07:02:12.612921+00:00"
   }
 ]
